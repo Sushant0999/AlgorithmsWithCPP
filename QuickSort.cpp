@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Bubble Sorting //
+// Quick Sorting //
 
 //Function Declaration
 void sort(int nums[], int low, int high);
