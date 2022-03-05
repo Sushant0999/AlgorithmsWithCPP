@@ -1,6 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/*
+   Timne Complextiy
+   Best -    Ω(n log(n))
+   Worst -   O(n^2)
+   Average - θ(n log(n))
+*/
+
 // Quick Sorting //
 
 //Function Declaration
