@@ -14,6 +14,13 @@ Array After Sorting
 #include <iostream>
 using namespace std;
 
+/*
+   Timne Complextiy
+   Best -    Ω(n)
+   Average - θ(n^2)
+   Worst -   O(n^2)
+*/
+
 void swap(int *x, int *y)
 {
     int temp = *x;
